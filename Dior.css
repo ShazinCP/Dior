@@ -1,0 +1,375 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.img-logo{
+    top: 10px;
+    width: 130px;
+    padding-left: 45%;
+    position: relative;
+    right: -32px;
+}
+.heading{
+    font-size: 200;
+    height: 92px;
+    width: 100%;
+    border-bottom: 1px solid rgb(218, 218, 218);
+    font-family: Century Gothic Std,arial,sans-serif;
+}
+.heading h3{
+    float: left;
+    margin-left: 60px;
+    margin-right: -32px;
+    padding-top: 17px;
+}
+.img-logo{
+    padding-left: 335px
+}
+.categories {
+    display: flex;
+   font-size: 200;
+    height: 92px;
+    width: 100%;
+    border-bottom: 1px solid rgb(218, 218, 218);
+    font-family: Century Gothic Std,arial,sans-serif;
+    justify-content:space-evenly;
+}
+.categories h4{
+    margin-left: -367px;
+    position: relative;
+    top: 13px;
+    font-size: 18px;
+}
+.new:hover{
+    cursor: pointer;
+    color: #999999;
+}
+
+
+
+.first-picture{
+    width: 100%;
+    height: 1127px;
+}
+.img-1{
+    width: 50%;
+    float: left;
+    margin-top: 30px;
+    position: relative;
+    right: 1px;
+}
+.img-2{
+    width: 50%;
+    margin-top: 30px;
+    position: relative;
+    left: 2px;
+}
+
+.first-content{
+    font-size: 23px;
+    color: #fff;
+    font-family: Century Gothic Std,arial,sans-serif;
+    position: relative;
+    bottom: 140px;
+    left: 60px
+}
+p{
+    font-size: 27px;
+    color: rgb(230, 223, 223);
+    position: relative;
+    bottom: 173px;
+    left: 62px;
+    font-weight: 100;
+}
+.second-content{
+    font-size: 23px;
+    color: #fff;
+    font-family: Century Gothic Std,arial,sans-serif;
+    position: relative;
+    bottom: 288px;
+    left: 1080px;
+}
+p2{
+    font-size: 22px;
+    color: rgb(230, 223, 223);
+    font-family: Century Gothic Std,arial,sans-serif;
+    position: relative;
+    bottom: 332px;
+    left: 1082px;
+}
+
+
+
+.second-picture{
+    width: 100%;
+    height: 1097px;
+}
+.img-3{
+    width: 50%;
+    float: left;
+    position: relative;
+    left: 1px; 
+}
+.img-4{
+    width: 50%;
+    position: relative;
+    left: 2px; 
+}
+.third-content{
+    font-size: 23px;
+    color:#000;
+    font-family: Century Gothic Std,arial,sans-serif;
+    position: relative;
+    bottom: 140px;
+    left: 60px
+}
+p3{
+    font-size: 27px;
+    color: #727171;
+    position: relative;
+    bottom: 173px;
+    left: 62px;
+    font-weight: 100;
+}
+.fourth-content{
+    font-size: 23px;
+    color: #fff;
+    font-family: Century Gothic Std,arial,sans-serif;
+    position: relative;
+    bottom: 283px;
+    left: 1078px
+}
+p4{
+    font-size: 22px;
+    color: rgb(230, 223, 223);
+    font-family: Century Gothic Std,arial,sans-serif;
+    position: relative;
+    bottom: 332px;
+    left: 1078px;
+}
+
+
+
+.third-picture{
+    width: 100%;
+    height: 1099px;
+}
+.img-5{
+    width: 50%;
+    float: left;
+    position: relative;
+    left: 1px; 
+}
+.img-6{
+    width: 50%;
+    position: relative;
+    left: 2px; 
+}
+.fifth-content{
+    font-size: 23px;
+    color:#fff;
+    font-family: Century Gothic Std,arial,sans-serif;
+    position: relative;
+    bottom: 140px;
+    left: 60px
+}
+p5{
+    font-size: 27px;
+    color: rgb(248, 238, 238);
+    position: relative;
+    bottom: 173px;
+    left: 62px;
+    font-weight: 100;
+}
+.sixth-content{
+    font-size: 23px;
+    color: #000;
+    font-family: Century Gothic Std,arial,sans-serif;
+    position: relative;
+    bottom: 283px;
+    left: 1063px
+}
+p6{
+    font-size: 22px;
+    color: #727171;
+    font-family: Century Gothic Std,arial,sans-serif;
+    position: relative;
+    bottom: 332px;
+    left: 1063px;
+}
+
+.forth-picture{
+    height: 950px;
+    border-bottom: 1px solid rgb(218, 218, 218);
+}
+.header{
+    text-align: center;
+    position: relative;
+    top: 65px;
+}
+.img-7{
+    width: 935px;
+    position: relative;
+    top: 20px;
+    margin: 60px
+}
+.description1{
+    font-family: Century Gothic Std,arial,sans-serif;
+    position: relative;
+    bottom: 610px;
+    margin-left: 1027px;
+    font-size: 23px;
+}
+.description2{
+    color: #727171;
+    position: relative;
+    bottom: 622px;
+    margin-left: 1027px;
+    font-size: 25px;
+    font-weight: 100;
+}
+.description3{
+    font-family: Century Gothic Std,arial,sans-serif;
+    font-size: 19.3px;
+    line-height: 30px;
+    width: 36%;
+    margin-left: 1032px;
+    margin-top: -634px;
+    font-weight: 100;
+    color: #3d3b3b;
+}
+.discover-btn{
+    width: 250px;
+    height: 80px;
+}
+.discover-btn-input{
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-right: 35px;
+    padding-left: 25px;
+    border-radius: 100px;
+    color: #000;
+    background-color: #fff;
+    cursor: pointer;
+    width: fit-content;
+    font-size: 20px;
+    width: 250px;
+    height: 80px;
+}
+
+
+.footer{
+    width: 2025px;
+    height: 658px;
+}
+.explore-content{
+    display: flex;
+    font-size: 200;
+     height: 145px;
+     width: 2024px;
+     border-bottom: 1px solid rgb(218, 218, 218);
+    
+     justify-content:space-evenly;
+}
+.explore-content h3{
+    margin-left: -714px;
+    position: relative;
+    top: 45px;
+    left: 329px;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: Century Gothic Std,arial,sans-serif;
+}
+.newsletter-content{
+    position: relative;
+    left: 100px;
+    top: 42px;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: Century Gothic Std,arial,sans-serif;
+}
+.boutique-content{
+    position: relative;
+    left: 100px;
+    top: 106px;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: Century Gothic Std,arial,sans-serif;
+}
+.clientservices-content{
+    position: relative;
+    bottom: 192px;
+    left: 527px;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: Century Gothic Std,arial,sans-serif;
+}
+.Contact{
+    border: none;
+    width: 378px;
+    font-size: 20px;
+  }
+  .faq{
+    border: none;
+    display: flex;
+    width: 378px;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+  }
+
+.house-of-dior-content{
+    position: relative;
+    bottom: 327px;
+    left: 1019px;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: Century Gothic Std,arial,sans-serif;
+  }
+.legalterms{
+    border: none;
+    width: 378px;
+    font-size: 20px;
+  }
+.followus{
+    border: none;
+    width: 378px;
+    font-size: 20px;
+}
+.Sitemap{
+    border: none;
+    width: 378px;
+    font-size: 20px;
+}
+.country-content{
+    position: relative;
+    bottom: 688px;
+    left: 1579px;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: Century Gothic Std,arial,sans-serif;
+}
+.version{
+    border: none;
+    width: 378px;
+    font-size: 20px;
+}
+.language-input{
+    border: none;
+    width: 378px;
+    font-size: 20px;
+}
+.language{
+    position: relative;
+    bottom: 652px;
+    left: 1579px;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: Century Gothic Std,arial,sans-serif;
+}
+
+
+
+
